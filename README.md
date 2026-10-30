@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Nico!</h1>
 
-<h3 align="center">Aspiring DevOps Engineer • AI Researcher• Computer Science Graduate</h3>
+<h3 align="center">Platform Engineer • AI Researcher• Applied Computer Science Graduate</h3>
 
 <br>
 <h2 align="center">☁️ About Me:</h2> 
 
 📚 **I'm currently learning:** 
-Terraform provisioning, Ansible automation and Kubernetes Deployments
+Ai Agent Isolation in reproducible Environments
 
-💬 **Ask me about:** The latest AI news, my Homelab and IT-Security Happenings.
+💬 **Ask me about:** The latest AI news, my Homelab and accelerated decompilation Projects.
 
 
 <div align="center">
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,linux,ubuntu,nix,gitlab,github,bash,python,go,c,cpp,vim&perline=8)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,linux,ubuntu,nix,gitlab,github,jenkins,bash,python,go,c,cpp,vim&perline=8)
 
 </div>
 
