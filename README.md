@@ -15,7 +15,7 @@ Ai Agent Isolation in reproducible Environments
 
 ## My Skills
 
-![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,linux,ubuntu,nix,gitlab,github,jenkins,bash,python,go,c,cpp,vim&perline=8)
+![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,terraform,ansible,azure,linux,ubuntu,nix,gitlab,github,jenkins,bash,python,go,c,cpp&perline=8)
 
 </div>
 
